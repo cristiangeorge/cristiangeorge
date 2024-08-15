@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a strong
 
 ## 📫 Let's Connect!
 
-Feel free to reach out if you'd like to collaborate on a project, or just chat about web development. You can connect with me on [LinkedIn](https://www.linkedin.com/in/cristhian-lara-60b3a05a/) or follow my work here on GitHub.
+Feel free to reach out if you'd like to collaborate on a project, or just chat about web development. You can connect with me on [LinkedIn](https://www.linkedin.com/in/cristhian-g-lara-60b3a05a/) or follow my work here on GitHub.
 
 Thanks for stopping by!
 

@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a Front-End Developer. I like to create websi
 ### **Technologies & Tools:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,angular,react,php,git,github,sketch,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,angular,react,php,git,github,figma" alt="Tech Stack" />
 </p>
 
 - **💻 HTML5 & CSS3:** I write clean code and style websites with CSS.
